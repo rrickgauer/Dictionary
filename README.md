@@ -2,6 +2,7 @@
 Java application to get a word's synonyms, antonyms, rhymes, or approximate rhymes.
 
 ## Usage
+![Screen capture](/img/screen-shot.png)
 1) Enter a word into the search box
 2) Select a category:
     * Synonym
