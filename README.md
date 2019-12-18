@@ -15,3 +15,7 @@ Java application to get a word's synonyms, antonyms, rhymes, or approximate rhym
 ## Dependencies
 * I used the [Datamuse API](https://www.datamuse.com/api/) to get the data about a word.
 * I used [Gson](https://github.com/google/gson) to process the JSON received from the Datamuse API.
+
+## Future ideas
+* Allow users to enter a phrase instead of a word 
+   * The [Datamuse API](https://www.datamuse.com/api/) allows users to search also by a phrase containing multiple words
